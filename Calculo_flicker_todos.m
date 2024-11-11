@@ -19,8 +19,7 @@ Folders_8c=ForToDirectory(Folders_3a{1,4});
 Folders_h=ForToDirectory(Folders2{1,1});
 Folders_k1=ForToDirectory(Folders_h{1,1});
 Folders_k2=ForToDirectory(Folders_h{1,2});
-Folders_2h=ForToDirectory(Folders2{1,2});
-Folders_6f=ForToDirectory(Folders_2h{1,6});
+
 
 %Aqui se calculan todos los parametros y variables de todos archivos de
 %de cada directorio
